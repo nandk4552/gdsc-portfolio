@@ -1,2 +1,2 @@
 # gdsc-portfolio
-## live preview: https://storied-concha-c5359e.netlify.app/
+## live preview: close for now
