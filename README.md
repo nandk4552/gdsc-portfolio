@@ -1,2 +1,2 @@
 # gdsc-portfolio
-## live preview: close for now
+## live preview: https://webdevelopmentbootcamp.netlify.app/
